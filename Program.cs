@@ -10,6 +10,8 @@ namespace TestGitCreatedFromVS
 
             Console.WriteLine("Codeur passione");
 
+            Console.WriteLine("Conflit facile");
+
             Console.ReadLine();
         }
     }
