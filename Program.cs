@@ -8,6 +8,8 @@ namespace TestGitCreatedFromVS
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Codeur passione");
+
             Console.ReadLine();
         }
     }
